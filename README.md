@@ -52,7 +52,7 @@ Users should be able to:
 
 ### What I learned
 
-This is my first time using react to make something usable. I'd say I've learned a lot about state and useEffect. In the future I plan to learn more about hooks and add more functionality to this app.
+This is my first time using react to make something usable. I'd say I've learned a lot about state and useEffect. In the future I plan to learn more about hooks and add more functionality to this app. Next, I'll add a functionality that lets you drag and drop tasks by order of priority.
 
 
 ### Useful resources
