@@ -11,7 +11,7 @@ export default function TodoItem({completed, id, title, toggleTodo, deleteTodo})
                   checked={completed}
                   onChange={e => toggleTodo(id, e.target.checked)}/>
                 </label>
-                <p className="break-words" style={{textDecoration: completed===true? "line-through" : "none", opacity: completed===true ? "0.5" : "1"}>{title}</p>
+                <p className="break-words" style={{textDecoration: completed===true? "line-through" : "none", opacity: completed===true ? "0.5" : "1"}}>{title}</p>
               </div>
               <button className="close" onClick={() => deleteTodo(id)} ></button>
               
