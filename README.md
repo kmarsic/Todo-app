@@ -1,4 +1,4 @@
-# Frontend Mentor - Todo app solution
+# Frontend Mentor - Todo app solution - With Drag'n Drop
 
 This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW).
 
@@ -30,6 +30,7 @@ Users should be able to:
 - Filter by all/active/complete todos
 - Clear all completed todos
 - Toggle light and dark mode
+- Drag and Drop
 
 ### Screenshot
 
